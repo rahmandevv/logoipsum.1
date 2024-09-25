@@ -1,0 +1,447 @@
+@media (max-width: 1465px) {
+  #rocker {
+    padding: 10px;
+  }
+  .roc-box {
+    width: 350px;
+    height: 120px;
+  }
+  .categories-blocs {
+    width: 90%;
+  }
+
+  .cross-box {
+    width: 220px;
+    height: 290px;
+    margin: 25px;
+  }
+  .cross-box1 {
+    width: 220px;
+    height: 290px;
+    margin: 25px;
+  }
+  .cross-box2 {
+    width: 220px;
+    height: 290px;
+    margin: 25px;
+  }
+  .cross-box3 {
+    width: 220px;
+    height: 290px;
+    margin: 25px;
+  }
+  .cross-box4 {
+    width: 220px;
+    height: 290px;
+    margin: 25px;
+  }
+  .subscribe {
+    width: 70%;
+  }
+  .sub2 {
+    max-width: 365px;
+  }
+  .footer-box {
+    padding: 25px;
+    line-height: 35px;
+  }
+  .categories-blocs {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 1315px) {
+  .watch {
+    gap: 45px;
+  }
+}
+@media (max-width: 1150px) {
+  .roc-text h1 {
+    width: 170px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .roc-box {
+    width: 275px;
+    height: 105px;
+  }
+
+  .watch-img2 {
+    max-width: 225px;
+  }
+
+  .watch-img3 {
+    max-width: 155px;
+  }
+
+  .watch {
+    gap: 15px;
+  }
+
+  .watch-text h1 {
+    width: 380px;
+    font-size: 46px;
+  }
+  .watch-text p {
+    width: 380px;
+  }
+
+  .subscribe-text p {
+    width: 385px;
+  }
+
+  .subscribe {
+    height: 355px;
+  }
+
+  .footer-blocs {
+    flex-wrap: wrap;
+  }
+  .sub2 {
+    max-width: 315px;
+    top: -15px;
+  }
+}
+
+@media (max-width: 1050px) {
+  .footer-box1 {
+    padding: 10px;
+  }
+  .sub2 {
+    max-width: 280px;
+  }
+  .sub1 {
+    max-width: 200px;
+  }
+}
+
+@media (max-width: 950px) {
+  .roc-text h1 {
+    width: 150px;
+    font-size: 15px;
+  }
+
+  .roc-box {
+    width: 240px;
+    height: 105px;
+  }
+  .sub1 {
+    max-width: 185px;
+  }
+  .sub2 {
+    top: 35px;
+    left: 81px;
+    max-width: 200px;
+  }
+}
+@media (max-width: 865px) {
+  .watch-text p {
+    width: 360px;
+  }
+  .watch-text h1 {
+    width: 360px;
+  }
+  .watch-img2 {
+    max-width: 205px;
+  }
+  .watch-img3 {
+    max-width: 140px;
+  }
+  .subscribe-text p {
+    width: 300px;
+  }
+
+  .subscribe-text input {
+    width: 255px;
+  }
+}
+@media (max-width: 850px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+  }
+  nav {
+    gap: 20px;
+  }
+  .cross-text h1 {
+    width: 535px;
+    font-size: 40px;
+  }
+  .categories-text h1 {
+    width: 455px;
+    font-size: 40px;
+  }
+
+  .header button {
+    width: 125px;
+    height: 40px;
+  }
+  .footer-text button {
+    width: 185px;
+  }
+
+  .subscribe {
+    height: 645px;
+    flex-direction: column;
+  }
+  .roc-text h1 {
+    width: 123px;
+    font-size: 13px;
+  }
+  .roc-box {
+    width: 215px;
+  }
+  .subscribe {
+    width: 60%;
+  }
+  .subscribe-text {
+    text-align: center;
+  }
+
+  .subscribe-text p {
+    width: 274px;
+    padding: 30px 80px;
+  }
+}
+
+@media (max-width: 755px) {
+  .header ion-icon {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 50px;
+    font-weight: 600;
+  }
+
+  .header nav {
+    display: none;
+  }
+
+  .header button {
+    display: none;
+  }
+
+  .watch {
+    gap: 60px;
+    flex-direction: column-reverse;
+  }
+
+  .roc-blocs {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .roc-text h1 {
+    width: 150px;
+    font-size: 13px;
+  }
+  .roc-box {
+    width: 260px;
+  }
+}
+
+@media (max-width: 600px) {
+  .pro-text h1 {
+    font-size: 37px;
+  }
+
+  .pro-box h1 {
+    font-size: 17px;
+  }
+
+  .pro-blocs {
+    flex-direction: column;
+  }
+
+  .categories p {
+    width: 390px;
+  }
+  .categories-text h1 {
+    width: 390px;
+    font-size: 31px;
+  }
+
+  .categories-box {
+    width: 380px;
+  }
+
+  .categories-blocs2 {
+    height: 545px;
+  }
+  .cross-text h1 {
+    width: 410px;
+    font-size: 30px;
+  }
+
+  .categories-text {
+    width: 390px;
+  }
+
+  .categories-box p {
+    width: 183px;
+    padding: 0px 80px 0 0;
+  }
+
+  .footer-text nav {
+    display: none;
+  }
+  .footer-blocs {
+    align-items: baseline;
+    flex-direction: column;
+  }
+  .footer-box1 {
+    padding: 25px;
+  }
+}
+
+@media (max-width: 465px) {
+  .watch-text h1 {
+    width: 335px;
+    font-size: 45px;
+  }
+
+  .watch-text p {
+    width: 300px;
+  }
+  .watch-ion1 {
+    padding: 0px 15px 0 0;
+  }
+  .subscribe-text p {
+    width: 205px;
+    padding: 30px 52px;
+  }
+  .subscribe-text h1 {
+    font-size: 25px;
+  }
+  .subscribe {
+    width: 355px;
+  }
+
+  .cross-box {
+    width: 173px;
+    height: 245px;
+  }
+  .cross-box1 {
+    width: 173px;
+    height: 245px;
+  }
+  .cross-box2 {
+    width: 173px;
+    height: 245px;
+  }
+  .cross-box3 {
+    width: 173px;
+    height: 245px;
+  }
+  .cross-box4 {
+    width: 173px;
+    height: 245px;
+  }
+  .cross-text h1 {
+    width: 340px;
+    font-size: 28px;
+  }
+  .categories p {
+    padding: 0 37px;
+    width: 305px;
+  }
+  .categories-text h1 {
+    width: 372px;
+    font-size: 21px;
+  }
+  .categories-box p {
+    width: 183px;
+    padding: 0;
+  }
+
+  .categories-box h1 {
+    font-size: 25px;
+  }
+  .categories-box {
+    width: 293px;
+  }
+
+  .pro-text h1 {
+    width: 235px;
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 450px) {
+  .watch-img2 {
+    max-width: 155px;
+    left: 195px;
+    bottom: -35px;
+  }
+  .watch-img3 {
+    max-width: 119px;
+
+    left: 213px;
+    bottom: -16px;
+  }
+}
+
+@media (max-width: 415px) {
+  .sub2 {
+    max-width: 185px;
+  }
+  .watch-text h1 {
+    width: 330px;
+    font-size: 40px;
+  }
+  .categories p {
+    padding: 0px 77px;
+    width: 228px;
+  }
+  .watch-img1 {
+    max-width: 260px;
+  }
+  .watch-img2 {
+    max-width: 145px;
+    left: 160px;
+    bottom: -35px;
+  }
+  .watch-img3 {
+    max-width: 110px;
+    left: 178px;
+    bottom: -18px;
+  }
+  .categories-box p {
+    width: 183px;
+    padding: 0;
+  }
+  .subscribe-text h1 {
+    font-size: 20px;
+  }
+  .subscribe-text p {
+    padding: 30px 30px;
+  }
+  .subscribe {
+    width: 335px;
+  }
+}
+
+@media (max-width: 345px) {
+  .watch-text h1 {
+    width: 330px;
+    font-size: 35px;
+  }
+
+  .watch-text h3 {
+    font-size: 17px;
+  }
+
+  .categories-box h1 {
+    font-size: 22px;
+  }
+  .categories-box p {
+    width: 115px;
+  }
+  .categories-box {
+    height: 410px;
+  }
+
+  .cross-text h1 {
+    width: 260px;
+    font-size: 22px;
+  }
+}
